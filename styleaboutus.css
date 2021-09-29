@@ -1,0 +1,23 @@
+body{
+    padding: 40px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.list-group{
+    width: 50%;
+    margin:10px 70% 0 20%;
+    
+}
+h3{
+    text-align: center;
+}
+
+h5{
+    margin:10px 20% 10px 20%;
+    padding: 20px ;
+}
+h6{
+    margin:10px 20% 1px 20%;
+    padding: 20px ;
+}
