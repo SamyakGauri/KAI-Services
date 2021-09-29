@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(65, 1, 107);
 }
 .top-icon{
     width:4%;
@@ -19,7 +19,7 @@ h5{
 .top-container{
     margin: 3rem auto 3rem auto;
     border: 10px solid transparent;
-    border-image: linear-gradient(to right, white, black);
+    border-image: linear-gradient(to right, white, rgb(77, 2, 138));
     border-image-slice: 1;
     width:90%;
     padding: 50px 0px 25px 0px;
@@ -56,12 +56,13 @@ h6{
     margin-right: 30px;
 }
 .title-image{
-    
-    color: white;
+    margin: 0%;
+    color: rgb(77, 2, 138);
+    width: 90%;
 }
 .image-section{
     text-align:center;
-    background-color: white;
+    background-color: rgb(65, 1, 107);
     margin:auto;
 
 }
@@ -92,6 +93,12 @@ h6{
     height: 500px ;
     width: 200px;
 }
+#AboutUs{
+    background-color: white;
+    text-align: center;
+    padding: 25px 0 30px 0;
+}
+
 #Contact{
     background-color: white;
     text-align: center;
